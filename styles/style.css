@@ -29,7 +29,7 @@
 
 .header_menu-link {
   font-size: 18px;
-  line-height: 22px;
+  line-height: 1.22;
   text-transform: lowercase;
   text-decoration: underline;
   text-underline-offset: 4px;
@@ -62,7 +62,7 @@
 
 .header_address {
   justify-self: end;
-  max-width: 240px;
+  max-width: 230px;
 }
 
 .address_link {
@@ -73,6 +73,7 @@
 
 .address_text {
   margin-top: 1px;
+  max-width: 240px;
 }
 
 .cover {
@@ -107,7 +108,7 @@
 }
 
 .aligned-text {
-  display: block;  
+  display: block;
 }
 
 .aligned-text_left {
